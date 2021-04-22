@@ -6,3 +6,9 @@ This dataset includes three paddy rice maps in South Korea for the year 2018. Sp
 * Citation 
 
 Please cite this paper: (TBD)
+
+* Files 
+
+[i)   Seosan-Dangjin Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_o365_noa_gr/EQsvzFLKz4VLjumidOb-YF0BnIOW2lEw2gxvhhTcGyf39A?e=0gBgV8)
+[ii)  Haenam Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_o365_noa_gr/EYbyxpcq1W5Ds2o2E-0eSkEBUpAVYfZOhMtYTdUtZkEMGQ?e=orTZWC)
+[iii) Cheorwon Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_o365_noa_gr/EViL0QAmExdMjKjIz62NdGwBuJymfG7psEKoIDcU-blQfA?e=4xZdCr)
