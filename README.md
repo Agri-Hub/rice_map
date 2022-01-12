@@ -5,17 +5,7 @@ This dataset includes three paddy rice maps in South Korea for the year 2018. Sp
 
 * Citation 
 
-Please cite this paper: Sitokonstantinou V, Koukos A, Drivas T, Kontoes C, Papoutsis I, Karathanassi V. A Scalable Machine Learning Pipeline for Paddy Rice Classification Using Multi-Temporal Sentinel Data. Remote Sensing. 2021; 13(9):1769. https://doi.org/10.3390/rs13091769  \\
-@article{sitokonstantinou2021scalable,
-  title={A Scalable Machine Learning Pipeline for Paddy Rice Classification Using Multi-Temporal Sentinel Data},
-  author={Sitokonstantinou, Vasileios and Koukos, Alkiviadis and Drivas, Thanassis and Kontoes, Charalampos and Papoutsis, Ioannis and Karathanassi, Vassilia},
-  journal={Remote Sensing},
-  volume={13},
-  number={9},
-  pages={1769},
-  year={2021},
-  publisher={Multidisciplinary Digital Publishing Institute}
-}
+Please cite this paper: Sitokonstantinou V, Koukos A, Drivas T, Kontoes C, Papoutsis I, Karathanassi V. A Scalable Machine Learning Pipeline for Paddy Rice Classification Using Multi-Temporal Sentinel Data. Remote Sensing. 2021; 13(9):1769. https://doi.org/10.3390/rs13091769
 
 * Files 
 The map can be found [here](https://noagr-my.sharepoint.com/:f:/g/personal/tdrivas_o365_noa_gr/EvXUQly2P61GuOyczJ6QzFABXAmiMCvul9VcJ5WhYDMuEQ?e=dWeacy) or 
