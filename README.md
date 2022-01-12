@@ -10,8 +10,8 @@ Please cite this paper: Sitokonstantinou V, Koukos A, Drivas T, Kontoes C, Papou
 * Files 
 The map can be found [here](https://noagr-my.sharepoint.com/:f:/g/personal/tdrivas_noa_gr/EvXUQly2P61GuOyczJ6QzFABNppnGRT3aDeEGK9Nw8yUuA?e=zdT3sA) or 
 
-   [i)   Seosan-Dangjin Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_noa_gr/EQsvzFLKz4VLjumidOb-YF0BQS0r7jxP7rhWGp9pajJKpw?e=mSpJ1z)
+   i)   [Seosan-Dangjin Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_noa_gr/EQsvzFLKz4VLjumidOb-YF0BQS0r7jxP7rhWGp9pajJKpw?e=mSpJ1z)
 
-   [ii)  Haenam Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_noa_gr/EYbyxpcq1W5Ds2o2E-0eSkEBZqnhSQa0lKOKd0C2l65Epw?e=NVhodR)
+   ii)  [Haenam Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_noa_gr/EYbyxpcq1W5Ds2o2E-0eSkEBZqnhSQa0lKOKd0C2l65Epw?e=NVhodR)
 
-   [iii) Cheorwon Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_noa_gr/EViL0QAmExdMjKjIz62NdGwBf3YGzjf-HAHnkdj8K7CFEg?e=B1foQc)
+   iii) [Cheorwon Map](https://noagr-my.sharepoint.com/:i:/g/personal/tdrivas_noa_gr/EViL0QAmExdMjKjIz62NdGwBf3YGzjf-HAHnkdj8K7CFEg?e=B1foQc)
